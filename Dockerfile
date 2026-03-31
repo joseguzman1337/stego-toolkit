@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 FROM debian:13
-=======
-FROM debian:13
->>>>>>> master
 
 ENV DEBIAN_FRONTEND noninteractive
 
